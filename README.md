@@ -12,7 +12,6 @@ This profile is where I'll share my studies and the projects I build along the w
 
 - Python
 - HTML, CSS, JavaScript
-- UML (Class and Use Case Diagrams)
 
 ---
 
