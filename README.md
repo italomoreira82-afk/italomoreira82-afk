@@ -12,6 +12,8 @@ This profile is where I'll share my studies and the projects I build along the w
 
 - Python
 - HTML, CSS, JavaScript
+- MySQL
+- Linux and Windows
 
 ---
 
