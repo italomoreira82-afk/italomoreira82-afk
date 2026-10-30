@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Italo%20Tech&fontSize=60&animation=fadeIn&fontAlignY=38" alt="Italo Tech" />
+</p>
 # Hey there 👋
 
 I'm Italo, a **Software Engineering student**.
